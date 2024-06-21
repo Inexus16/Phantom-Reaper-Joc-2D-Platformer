@@ -1,4 +1,3 @@
-Link : https://github.com/Inexus16/Phantom-Reaper-Joc-2D-Platformer
 Versiunea folosită în Unity Hub: 2022.3.21f1 LTS
 
 Pentru testarea jocului în editorul Unity se apasă pe butonul „Play” din Unity.
